@@ -7,9 +7,11 @@ import org.junit.jupiter.api.Test;
 
 class PlaylistTest {
 	private static double DELTA = 0.000001;
+	
 
 	@BeforeEach
 	void setUp() {
+		
 	}
 
 	@Test
